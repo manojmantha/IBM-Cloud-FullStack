@@ -347,33 +347,6 @@ This repository documents my journey of becoming a **Full Stack Java Developer**
 
 Build production-ready Full Stack Java applications using modern development practices, cloud-native technologies, and DevOps workflows.
 
----
-
-# 📌 Repository Structure
-
-```
-📦 learning
-├── html-css/
-├── core-java/
-├── clean-code/
-├── git-github/
-├── docker/
-├── kubernetes/
-├── ansible/
-├── jenkins/
-├── mongodb/
-├── javascript/
-├── typescript/
-├── express/
-├── react/
-├── nodejs/
-├── microservices/
-├── spring/
-├── spring-boot/
-├── spring-data-rest/
-├── maven/
-└── fullstack-projects/
-```
 
 ---
 
