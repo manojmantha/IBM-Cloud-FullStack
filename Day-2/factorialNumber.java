@@ -1,0 +1,14 @@
+public class factorialNumber {
+    public static void main(String[] args) {
+	    int n = 5;
+	    int fact = 1;
+	    for(int i=1; i<=n; i++) {
+	        fact *= i;
+	    }
+	    
+	    System.out.println(n + "! = " + fact);
+	    
+	    // output
+	    // 5! = 120
+	}
+}
